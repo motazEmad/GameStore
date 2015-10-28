@@ -1,0 +1,27 @@
+<%@ page language="java" contentType="text/html; charset=windows-1256"
+    pageEncoding="windows-1256"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1256">
+</head>
+<body>
+<div class="footer">
+				<ul>
+					<li><a href="index.html">Home</a></li>
+					<li><a href="about.html">About</a></li>
+					<li><a href="blog.html">Blog</a></li>
+					<li><a href="services.html">Gallery</a></li>
+				</ul>
+				<p>&#169; Copyright &#169; 2011. Company name all rights reserved</p>
+				<br/>
+				<center>
+				<div class="connect">
+					<a href="http://facebook.com/freewebsitetemplates" id="facebook">facebook</a>
+					<a href="http://twitter.com/fwtemplates" id="twitter">twitter</a>
+					<a href="http://www.youtube.com/fwtemplates" id="vimeo">vimeo</a>
+				</div>
+				</center>
+			</div>
+</body>
+</html>

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/198/trunk/GameStore/src/dto
+END
+CartGame.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/126/trunk/GameStore/src/dto/CartGame.hbm.xml
+END
+Game.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/122/trunk/GameStore/src/dto/Game.hbm.xml
+END
+Platform.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/39/trunk/GameStore/src/dto/Platform.hbm.xml
+END
+Order.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/147/trunk/GameStore/src/dto/Order.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/164/trunk/GameStore/src/dto/User.java
+END
+Credit.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/91/trunk/GameStore/src/dto/Credit.hbm.xml
+END
+Category.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/39/trunk/GameStore/src/dto/Category.hbm.xml
+END
+Cart.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/198/trunk/GameStore/src/dto/Cart.hbm.xml
+END
+Cart.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/164/trunk/GameStore/src/dto/Cart.java
+END
+Category.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/39/trunk/GameStore/src/dto/Category.java
+END
+Credit.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/88/trunk/GameStore/src/dto/Credit.java
+END
+User.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/198/trunk/GameStore/src/dto/User.hbm.xml
+END
+Order.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/147/trunk/GameStore/src/dto/Order.hbm.xml
+END
+Platform.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/39/trunk/GameStore/src/dto/Platform.java
+END
+Game.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/164/trunk/GameStore/src/dto/Game.java
+END
+CartGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/164/trunk/GameStore/src/dto/CartGame.java
+END

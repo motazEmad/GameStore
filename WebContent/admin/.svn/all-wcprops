@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/220/trunk/GameStore/WebContent/admin
+END
+templatemo_style.css
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/77/trunk/GameStore/WebContent/admin/templatemo_style.css
+END
+admin.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/220/trunk/GameStore/WebContent/admin/admin.jsp
+END
+addCategory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/167/trunk/GameStore/WebContent/admin/addCategory.jsp
+END
+getUsers.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/205/trunk/GameStore/WebContent/admin/getUsers.jsp
+END
+AdminAddGame.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/220/trunk/GameStore/WebContent/admin/AdminAddGame.jsp
+END
+addSerial.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/210/trunk/GameStore/WebContent/admin/addSerial.jsp
+END
+orders.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/169/trunk/GameStore/WebContent/admin/orders.jsp
+END

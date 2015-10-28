@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+	<table-filter match-name="admin"></table-filter>
+	<table-filter match-name="cart"></table-filter>
+	<table-filter match-name="cart_game"></table-filter>
+	<table-filter match-name="category"></table-filter>
+	<table-filter match-name="game"></table-filter>
+	<table-filter match-name="order"></table-filter>
+	<table-filter match-name="platform"></table-filter>
+	<table-filter match-name="platform_game"></table-filter>
+	<table-filter match-name="user"></table-filter>
+</hibernate-reverse-engineering>

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/107/trunk/GameStore/WebContent/WEB-INF/lib
+END
+antlr-2.7.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/21/trunk/GameStore/WebContent/WEB-INF/lib/antlr-2.7.6.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/21/trunk/GameStore/WebContent/WEB-INF/lib/commons-logging-1.1.1.jar
+END
+slf4j-api-1.5.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/21/trunk/GameStore/WebContent/WEB-INF/lib/slf4j-api-1.5.8.jar
+END
+commons-io-2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/107/trunk/GameStore/WebContent/WEB-INF/lib/commons-io-2.4.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/21/trunk/GameStore/WebContent/WEB-INF/lib/dom4j-1.6.1.jar
+END
+slf4j-nop-1.5.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/21/trunk/GameStore/WebContent/WEB-INF/lib/slf4j-nop-1.5.6.jar
+END
+commons-collections-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/21/trunk/GameStore/WebContent/WEB-INF/lib/commons-collections-3.1.jar
+END
+standard.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/15/trunk/GameStore/WebContent/WEB-INF/lib/standard.jar
+END
+javassist-3.9.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/21/trunk/GameStore/WebContent/WEB-INF/lib/javassist-3.9.0.GA.jar
+END
+jta-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/21/trunk/GameStore/WebContent/WEB-INF/lib/jta-1.1.jar
+END
+commons-fileupload-1.2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/107/trunk/GameStore/WebContent/WEB-INF/lib/commons-fileupload-1.2.2.jar
+END
+mysql-connector-java-5.1.22-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/21/trunk/GameStore/WebContent/WEB-INF/lib/mysql-connector-java-5.1.22-bin.jar
+END
+jstl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/15/trunk/GameStore/WebContent/WEB-INF/lib/jstl.jar
+END
+hibernate3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/21/trunk/GameStore/WebContent/WEB-INF/lib/hibernate3.jar
+END

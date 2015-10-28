@@ -1,0 +1,45 @@
+
+#all {
+ background-color: #ffffff;
+ line-height: 35px;
+ margin: 0 auto;
+ overflow: hidden;
+ width : 980;
+}
+
+#header {
+ background-color: #ffffff;
+ line-height: 35px;
+ margin: 0 auto;
+ overflow: hidden;
+ width : 980;
+}
+
+#div-one {
+ float: left;
+ width : 340;
+ margin : 10;
+}
+
+#div-two {
+ float: right;
+ max-width: 700px;
+ width : 600;
+ margin : 10;
+}
+
+#footer {
+ float: left;
+ text-align: center;
+ margin: 0;
+ padding: 0 12px 0;
+}
+
+
+# {
+ float: right;
+ max-width: 700px;
+ width : 600;
+ margin : 10;
+}
+

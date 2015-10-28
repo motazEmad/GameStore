@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Feb 25, 2013 12:11:51 PM by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping>
+    <class name="dto.Credit" table="credit" catalog="game_store">
+        <id name="serial" type="string">
+            <column name="serial" length="15" />
+            <generator class="assigned" />
+        </id>
+        <property name="value" type="float">
+            <column name="value" not-null="true" />
+        </property>
+        <property name="used" type="boolean">
+            <column name="used" />
+        </property>
+    </class>
+</hibernate-mapping>

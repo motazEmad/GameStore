@@ -1,0 +1,23 @@
+.button {
+	background: url(../images/interface.png) no-repeat;
+	border: 0;
+	height: 35px;
+	width: 65px;
+	font-family: 'RokkittRegular';
+	color: #fff;
+	font-size: 18px;
+	cursor: pointer;
+	outline: none;
+}
+
+.categorybutton {
+	background: url(../images/interface.png) no-repeat;
+	border: 0;
+	height: 55px;
+	width: 218px;
+	font-family: 'RokkittRegular';
+	color: #fff;
+	font-size: 22px;
+	cursor: pointer;
+	outline: none;
+}

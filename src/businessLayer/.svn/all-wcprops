@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/198/trunk/GameStore/src/businessLayer
+END
+Initiator.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/164/trunk/GameStore/src/businessLayer/Initiator.java
+END
+GamesProcessorImp.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/169/trunk/GameStore/src/businessLayer/GamesProcessorImp.java
+END
+CartProcessorImp.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/164/trunk/GameStore/src/businessLayer/CartProcessorImp.java
+END
+ProfileProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/170/trunk/GameStore/src/businessLayer/ProfileProcessor.java
+END
+CreditProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/136/trunk/GameStore/src/businessLayer/CreditProcessor.java
+END
+CategoryProcessorImp.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/150/trunk/GameStore/src/businessLayer/CategoryProcessorImp.java
+END
+DmException.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/147/trunk/GameStore/src/businessLayer/DmException.java
+END
+HibernateUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/198/trunk/GameStore/src/businessLayer/HibernateUtil.java
+END
+CategoryProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/150/trunk/GameStore/src/businessLayer/CategoryProcessor.java
+END
+ProfileProcessorImp.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/198/trunk/GameStore/src/businessLayer/ProfileProcessorImp.java
+END
+CreditProcessorImp.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/136/trunk/GameStore/src/businessLayer/CreditProcessorImp.java
+END
+CartProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/164/trunk/GameStore/src/businessLayer/CartProcessor.java
+END
+GamesProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/169/trunk/GameStore/src/businessLayer/GamesProcessor.java
+END

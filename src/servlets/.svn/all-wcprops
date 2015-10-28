@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/220/trunk/GameStore/src/servlets
+END
+AddGameCategories.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/220/trunk/GameStore/src/servlets/AddGameCategories.java
+END
+AddCreditSerial.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/133/trunk/GameStore/src/servlets/AddCreditSerial.java
+END
+RemoveFromCart.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/206/trunk/GameStore/src/servlets/RemoveFromCart.java
+END
+DeleteCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/218/trunk/GameStore/src/servlets/DeleteCategory.java
+END
+recharge.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/133/trunk/GameStore/src/servlets/recharge.java
+END
+GetImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/210/trunk/GameStore/src/servlets/GetImage.java
+END
+CartServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/147/trunk/GameStore/src/servlets/CartServlet.java
+END
+findUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/172/trunk/GameStore/src/servlets/findUser.java
+END
+RegisterServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/199/trunk/GameStore/src/servlets/RegisterServlet.java
+END
+Purchase.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/147/trunk/GameStore/src/servlets/Purchase.java
+END
+getGamesByCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/48/trunk/GameStore/src/servlets/getGamesByCategory.java
+END
+OrdersServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/169/trunk/GameStore/src/servlets/OrdersServlet.java
+END
+AddCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/175/trunk/GameStore/src/servlets/AddCategory.java
+END
+BestGames.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/168/trunk/GameStore/src/servlets/BestGames.java
+END
+DeleteGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/214/trunk/GameStore/src/servlets/DeleteGame.java
+END
+LoginServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/215/trunk/GameStore/src/servlets/LoginServlet.java
+END
+Categories.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/142/trunk/GameStore/src/servlets/Categories.java
+END
+EditGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/214/trunk/GameStore/src/servlets/EditGame.java
+END
+AddToCart.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/164/trunk/GameStore/src/servlets/AddToCart.java
+END
+LogoutServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/83/trunk/GameStore/src/servlets/LogoutServlet.java
+END
+InsertGameServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/119/trunk/GameStore/src/servlets/InsertGameServlet.java
+END
+EditUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/104/trunk/GameStore/src/servlets/EditUser.java
+END
+UserEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/164/trunk/GameStore/src/servlets/UserEdit.java
+END
+GameServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/108/trunk/GameStore/src/servlets/GameServlet.java
+END
+AddGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/213/trunk/GameStore/src/servlets/AddGame.java
+END
+GetUsers.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/172/trunk/GameStore/src/servlets/GetUsers.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/198/trunk/GameStore/src/filters
+END
+HeaderFooterFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/198/trunk/GameStore/src/filters/HeaderFooterFilter.java
+END
+AdminHeaderFooterFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/142/trunk/GameStore/src/filters/AdminHeaderFooterFilter.java
+END
+AdminAutherizationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/161/trunk/GameStore/src/filters/AdminAutherizationFilter.java
+END
+AutherizationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/168/trunk/GameStore/src/filters/AutherizationFilter.java
+END

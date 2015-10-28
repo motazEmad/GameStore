@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/220/trunk/GameStore/src
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/177/trunk/GameStore/src/hibernate.cfg.xml
+END
+game_store.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/166/trunk/GameStore/src/game_store.sql
+END
